@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohinikorde
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning b.tech in bajaj Institute of Technology 
+- 🌱 I’m currently learning B.Tech in Bajaj Institute of Technology 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
